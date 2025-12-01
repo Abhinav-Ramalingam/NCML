@@ -1,0 +1,66 @@
+
+geneType: float
+scalingFunc: none
+scalingCoeff: 1
+verbose: 1
+select: 
+  struct with fields:
+
+        func: 'proportional'
+    sampling: 'roulette'
+    pressure: 2
+        size: 2
+
+init: 
+  struct with fields:
+
+        func: 'uniform'
+    variance: 1
+        peak: 'mean'
+
+crossover: 
+  struct with fields:
+
+        func: '1point'
+        prob: 0.9000
+    sampling: 'roulette'
+    pressure: 2
+
+mutate: 
+  struct with fields:
+
+            func: 'uniform'
+            prob: 0.0030
+            step: 0.1000
+           decay: 'none'
+    proportional: 0
+
+replace: 
+  struct with fields:
+
+           func: 'all'
+        elitist: 1
+            gap: 0
+    comparative: 0
+
+visual: 
+  struct with fields:
+
+    active: 1
+      step: 10
+      func: 'circle'
+
+stop: 
+  struct with fields:
+
+         func: 'generations'
+    direction: 'max'
+       window: 100
+        error: 0.0500
+
+diversity: colvar
+objParams: 
+  struct with fields:
+
+    star: [50x2 double]
+  
