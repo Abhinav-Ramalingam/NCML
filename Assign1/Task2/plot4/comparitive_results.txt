@@ -1,0 +1,18 @@
+>> plot4rbprop (RPROP)
+MSE for network with 3 hidden nodes on training data: 0.19058
+MSE for network with 3 hidden nodes on new test data: 0.30863
+MSE for network with 6 hidden nodes on training data: 0.005974
+MSE for network with 6 hidden nodes on new test data: 0.014935
+MSE for network with 10 hidden nodes on training data: 8.7991e-25
+MSE for network with 10 hidden nodes on new test data: 0.049959
+MSE for network with 20 hidden nodes on training data: 7.4622e-31
+MSE for network with 20 hidden nodes on new test data: 0.21453
+>> plot4new (BACKPROP)
+MSE for network with 3 hidden nodes on training data: 0.21331
+MSE for network with 3 hidden nodes on new test data: 0.27541
+MSE for network with 6 hidden nodes on training data: 6.4724e-05
+MSE for network with 6 hidden nodes on new test data: 0.0022349
+MSE for network with 10 hidden nodes on training data: 2.0129e-05
+MSE for network with 10 hidden nodes on new test data: 0.026785
+MSE for network with 20 hidden nodes on training data: 1.0991e-16
+MSE for network with 20 hidden nodes on new test data: 0.21361

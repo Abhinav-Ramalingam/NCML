@@ -1,0 +1,8 @@
+MSE for network with 3 hidden nodes on training data: 0.21204
+MSE for network with 3 hidden nodes on new test data: 0.093463
+MSE for network with 6 hidden nodes on training data: 0.00014211
+MSE for network with 6 hidden nodes on new test data: 0.0044697
+MSE for network with 10 hidden nodes on training data: 1.326e-05
+MSE for network with 10 hidden nodes on new test data: 0.011868
+MSE for network with 20 hidden nodes on training data: 5.1616e-17
+MSE for network with 20 hidden nodes on new test data: 0.19972

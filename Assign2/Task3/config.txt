@@ -1,0 +1,12 @@
+SCENARIO-1 (Question 16):
+Map: Two Rooms Map
+Update Rule: Q-Learning
+Learning Rate (Eta): 0.1
+Discount (Gamma): 0.95
+Exploration (Epsilon): 0.1
+Size (col,row): 5x5
+Default Reward: 0
+Actions Encountered:
+
+Actions for 50 "Very fast" episodes: = 726
+Actions for 10 "Step" episodes and rest of episodes as "Very fast" = 265

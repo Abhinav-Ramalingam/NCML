@@ -1,0 +1,11 @@
+clcplot3
+Session 1: Final Performance = 5.638931e-06, Gradient = 9.304623e-06, Epochs = 93
+Session 2: Final Performance = 1.250159e-01, Gradient = 7.603260e-05, Epochs = 1001
+Session 3: Final Performance = 5.575792e-06, Gradient = 9.412104e-06, Epochs = 47
+Session 4: Final Performance = 5.696421e-06, Gradient = 9.025063e-06, Epochs = 68
+Session 5: Final Performance = 1.772937e-06, Gradient = 2.317899e-06, Epochs = 69
+Session 6: Final Performance = 1.250161e-01, Gradient = 7.612381e-05, Epochs = 1001
+Session 7: Final Performance = 6.311262e-06, Gradient = 8.124072e-06, Epochs = 63
+Session 8: Final Performance = 4.618360e-06, Gradient = 8.263526e-06, Epochs = 69
+Session 9: Final Performance = 1.250156e-01, Gradient = 4.779488e-05, Epochs = 1001
+Session 10: Final Performance = 6.732482e-06, Gradient = 9.667935e-06, Epochs = 85

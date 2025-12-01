@@ -1,0 +1,44 @@
+P10:-
+The following are the plots:
+The overlap between clusters F1 and F2 is 0.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 2.00%
+The overlap between clusters F1 and F2 is 0.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 0.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 0.00%
+The overlap between clusters F1 and F2 is 0.00%
+The overlap between clusters F1 and F2 is 0.00%
+Plot the nodes of som_P in the input space:
+Plots saved as PNG files in the "P10" directory.
+
+P20:-
+The following are the plots:
+The overlap between clusters F1 and F2 is 2.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 2.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 0.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 0.00%
+The overlap between clusters F1 and F2 is 0.00%
+Plot the nodes of som_P in the input space:
+Plots saved as PNG files in the "P20" directory.
+
+P30:-
+The following are the plots:
+The overlap between clusters F1 and F2 is 3.00%
+The overlap between clusters F1 and F2 is 3.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 2.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 3.00%
+The overlap between clusters F1 and F2 is 0.00%
+The overlap between clusters F1 and F2 is 1.00%
+The overlap between clusters F1 and F2 is 3.00%
+Plot the nodes of som_P in the input space:
+Plots saved as PNG files in the "P30" directory.

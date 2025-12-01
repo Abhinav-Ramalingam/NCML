@@ -1,0 +1,38 @@
+SCENARIO-1 (Question 10):
+Map: Classic Map
+Update: Fast
+Update Rule: Q-Learning/SARSA
+Episodes: 1000
+Learning Rate (Eta): 0.1
+Discount (Gamma): 0.95
+Exploration (Epsilon): 0.1
+Size (col,row): 5x7
+Default Reward: 0
+
+SCENARIO-2 (Question 11):
+Map: Classic Map
+Update: Fast
+Update Rule: SARSA
+Episodes: 1000
+Learning Rate (Eta): 0.1
+Discount (Gamma): 0.95
+Exploration (Epsilon): 0.1
+Size (col,row): 5x7
+Default Reward: 0
+
+SCENARIO-3 (Question 12):
+Exploration (Epsilon): 1.0 - FULL_ON RANDOM
+Episodes: 500
+Update: Very Fast
+
+SCENARIO-4 (Question 13-15):
+Map: Cliff Map
+Update: Very Fast
+Update Rule: Q-Learning/SARSA
+Episodes: 10000
+Learning Rate (Eta): 0.1
+Discount (Gamma): 0.95
+Exploration (Epsilon): 0.25
+Size (col,row): 5x3
+Default Reward: 0
+

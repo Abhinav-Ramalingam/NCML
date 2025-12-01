@@ -1,0 +1,10 @@
+1. so basically this SOM is like dimensionality reduction. trying to represent huge data in smaller dimensions.
+2. so the input features/dimensions will be connected to output SOM dimensions. and the connections are weight vectors.
+3. lets say we present the first input - each feature of the input is mapped to  all the output number of dimensions.
+4. lets say n numbers of features mapped to output number of dimensions.  Like in our RGB example 4096 colors (64x64) is mapped to 10x10 grid (so there r weight vectors=  3 x 100 weight vectors?. since 3 features R, G, B)
+5. in zeroth - all weights randomnly.
+6. in first input distances are calculated btwn each weight and input - smallest distance is the BMU.
+7. BMU is updated. with the learning rate, so that it moves closer to the input datapoint
+8. neighbours are also updated. at first a particular number of neighbour (equal to neighbourhood size) are update, but neighbourhood size decays over time, so is the number of neighbours which WILL BE UPDATES
+9. and then in subsequent datapoints presented to the SOM, same stuff is done. But with the updated learning rates, neighbourhood sizes
+10. so now all the data points are presented and the som grid's weight vectors are tuned.

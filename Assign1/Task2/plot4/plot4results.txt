@@ -1,0 +1,4 @@
+MSE for network with 3 hidden nodes: 0.19691
+MSE for network with 6 hidden nodes: 9.6489e-05
+MSE for network with 10 hidden nodes: 3.0292e-07
+MSE for network with 20 hidden nodes: 3.427e-17
